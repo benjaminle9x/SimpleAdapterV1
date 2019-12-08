@@ -27,3 +27,8 @@ SimpleAdapter was introduced in Android Studio in API level 1. SimpleAdapter is 
 * Object getItem(int position): get the data item as well as its position in the data set.
 * long getItemId(int position): get the row id associated with the position of the data item in the data set.
 * View getView(int position, View convertView, ViewGroup parent): get a view that data is displayed 
+
+## 4. References:
+
+* https://developer.android.com
+* https://stackoverflow.com
